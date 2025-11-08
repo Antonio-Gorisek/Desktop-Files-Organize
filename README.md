@@ -1,4 +1,4 @@
-# 🗂 Desktop File Organizer (Unity)
+# 🗂 Desktop Files Organize (Unity)
 
 This tool is made in Unity and automatically organizes all files on the Desktop by type (videos, images, music, others) by creating folders and moving the files into them. Optionally, it can detect duplicate files and place them into a separate folder. It also includes an Undo feature to revert the sorting.
 
