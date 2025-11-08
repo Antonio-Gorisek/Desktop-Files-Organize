@@ -10,7 +10,7 @@ GIF:
 
 ## How Sorting Works (Visual Overview)
 
-**Before Sorting (Desktop)**
+**Before Sorting**
 
 ```
 Desktop
